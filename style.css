@@ -8,7 +8,11 @@
 }
 
 body {
-	background-color: gray;
+	background-color: #777;
+	content: #ebebeb;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+
 }
 
 header {
