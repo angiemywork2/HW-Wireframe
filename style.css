@@ -97,34 +97,11 @@ section {
 
 
 
-#h2 {
-	float: left;
-	position:absolute;
-	z-index: 4;
-    background:white;
-    top:300px;
-    left:70px;
-    width:40%px;
-    height:80px;
-}
 
-#middle {
-	float:left;
-	width: 33%;
-	background:#888;
-}
-
-
-
-#full {
-}
 
 #division {
 	padding: 20px;
 	
-}
-
-aside {
 }
 
 
