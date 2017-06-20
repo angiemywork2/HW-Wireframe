@@ -1,0 +1,80 @@
+/**
+ * HW-Wireframe
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+
+section { 
+	background:#ccc;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+#left {
+	float:left;
+	width: 49%;
+	height: 250px;
+	background:#666;
+	
+}
+
+#left #aricle {
+	width: 25px;
+	height: 200px;
+	background-color: grey;
+}
+
+
+
+#h {
+	position:absolute;
+	z-index: 4;
+    background:white;
+    top:300px;
+    left:70px;
+    width:140px;
+    height:80px;
+}
+
+#middle {
+	float:left;
+	width: 33%;
+	background:#888;
+}
+
+#right {
+	float:right;
+	width: 49%;
+	height: 250px;
+	background:#666;
+}
+
+#full {
+}
+
+#division {
+	padding: 20px;
+	
+}
+
+aside {
+}
+
+footer {
+}
